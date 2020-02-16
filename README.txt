@@ -1,7 +1,6 @@
 # Students
 
-"C:\Program Files\Java\jdk1.8.0_201\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\lib\idea_rt.jar=50732:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Users\Radim\IdeaProjects\EvolvrParser2\target\classes;C:\Users\Radim\.m2\repository\org\jsoup\jsoup\1.12.2\jsoup-1.12.2.jar" Parser
-iacas: Content Count 68 Joined July 30, 2018 Last visited Yesterday at 05:22 AM 
+iacas: Content Count 68 Joined July 30, 2018 Last visited Yesterday at 05:22 AM
 dwedzik: Content Count 2 Joined August 5, 2018 Last visited August 6, 2019 
 Evolvr: Content Count 0 Joined August 5, 2018 Last visited Never 
 Test_User: Content Count 1 Joined August 5, 2018 Last visited August 10, 2018 
@@ -68,4 +67,3 @@ Joseph DiLuia: Content Count 6 Joined January 9 Last visited February 1
 Kris Kroetsch: Content Count 8 Joined January 16 Last visited 10 hours ago 
 Will Schwarz: Content Count 4 Joined Thursday at 07:43 PM Last visited 6 hours ago 
 
-Process finished with exit code 0
