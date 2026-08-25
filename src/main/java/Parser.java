@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Parser {
     public static void main(String[] args) {
-        for (int i = 1; i <69; i++) {
+        for (int i = 1; i <147; i++) {
             Document doc = null;
             try {
                 doc = Jsoup.connect("https://evolvr.com/profile/" + i + "-test/").get();
